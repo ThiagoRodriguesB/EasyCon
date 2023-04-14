@@ -10,17 +10,17 @@ self.addEventListener('install', event => {
 
         './index.html',
 
-        './assets/css/bootstrap.min.css',
+       // './assets/css/bootstrap.min.css',
 
-        './assets/js/bootstrap.min.js',
+       // './assets/js/bootstrap.min.js',
 
-        './assets/js/jquery.min.js',
+        // './assets/js/jquery.min.js',
 
-        './assets/js/popper.min.js',
+       // './assets/js/popper.min.js',
 
-        './assets/img/background.png',
-        './assets/img/favicon.png',
-        './assets/img/logo.png',
+        //'./assets/img/background.png',
+       //'./assets/img/favicon.png',
+       // './assets/img/logo.png',
         './assets/img/icon_128.png',
         './assets/img/icon_144.png',
         './assets/img/icon_152.png',
@@ -29,7 +29,7 @@ self.addEventListener('install', event => {
         './assets/img/icon_192.png',
         './assets/img/icon_256.png',
         './assets/img/icon_512.png',
-        './assets/img/formulas.JPG',
+       // './assets/img/formulas.JPG',
       ]))
   );
 });
