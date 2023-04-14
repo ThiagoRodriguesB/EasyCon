@@ -46,12 +46,12 @@
     {
       "src": "assets/img/playstore.png",
       "sizes": "512x512",
-      "type": "image/png",
+      "type": "image/png"
     },
     {
       "src": "assets/img/appstore.png",
       "sizes": "1024x1024",
-      "type": "image/png",
+      "type": "image/png"
     },
   ],
   "start_url": "index.html",
